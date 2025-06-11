@@ -1,0 +1,2 @@
+# Market-Pulse-ML-Powered-Stock-Prediction-and-Financial-News-Analysis
+Developed a machine learning basedstock prediction system, combininghistorical price data, technical indicators (moving averages, RSJ), and sentimentanalysis of YahooFinance news using VADER.Trained a RandomForestRegressor modelon rich feature set including price, volume, and sentiment scores, achieving high accuracy in forecasting closing prices.
